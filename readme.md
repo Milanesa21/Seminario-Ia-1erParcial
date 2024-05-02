@@ -5,7 +5,7 @@
 Para utilizar la funcionalidad de multiplicación de matrices, asegúrate de tener Node.js instalado en tu sistema. Luego, ejecuta el siguiente comando en tu terminal para instalar las dependencias necesarias:
 
 ```bash
-$ npm install
+ npm install
 ```
 
 
